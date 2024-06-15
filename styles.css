@@ -1969,7 +1969,9 @@ body {
     cursor: pointer;
   }
   .nav__logo{
-    margin-left:-80px;
+    /* adjusted nav path display */
+    margin-left: 0px; 
+
   }
   .navLinks {
     position: absolute;
